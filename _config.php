@@ -23,7 +23,7 @@ $telegram = "https://t.me/anipaca";
 $instagram = "https://www.instagram.com/pxr15_"; 
 
 // all the api you need
-$zpi = "https://gbloxanime.vercel.app/api"; //https://github.com/PacaHat/zen-api
+$zpi = "anime-api-snowy.vercel.app/api"; //https://github.com/PacaHat/zen-api
 $proxy = $websiteUrl . "/src/ajax/proxy.php?url=https://gbloxanimeproxy-v8hp-ebbxxyezh-ggmoney702s-projects.vercel.app/";
 
 //If you want faster loading speed just put // before the first proxy and remove slashes from this one 
